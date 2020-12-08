@@ -20,5 +20,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishqsinghanand&repo=Whatsapp-Clone&theme=material-palenight" />
 </a>    
 <a href="www.tanishqsinghanands.live">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishqsinghanand&repo=Techny-Teams.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishqsinghanand&repo=Techny-Teams&theme=material-palenight" />
 </a>
