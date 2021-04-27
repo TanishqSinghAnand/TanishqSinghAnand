@@ -22,3 +22,6 @@
 <a href="www.tanishqsinghanands.live">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishqsinghanand&repo=Techny-Teams&theme=material-palenight" />
 </a>
+<a href="www.tanishqsinghanands.live">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanishqSinghAnand&theme=monokai" />
+</a>
