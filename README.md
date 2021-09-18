@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://techny-teams.netlify.app/blogs](https://techny-teams.netlify.app/blogs)
 
-- 💬 Ask me about **React, Python, DiscordJS, R, React Native, PT.js, Typescript**
+- 💬 Ask me about **React, Python, DiscordJS, R, React Native, P5.js, Typescript**
 
 - 📫 How to reach me **anandtanishqs@gmail.com**
 
