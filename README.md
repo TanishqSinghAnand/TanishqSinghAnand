@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.tanishqsinghanands.live/](https://www.tanishqsinghanands.live/)
 
-- ⚡ Fun fact **I can do anything from my friends 🙃🙃**
+- ⚡ Fun fact **I love to play free fire 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
