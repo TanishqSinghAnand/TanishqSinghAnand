@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on my Discord Bot [Techny Teams Discord Bot](mailto:anandtanishqs@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://www.tanishqsinghanands.live/](https://www.tanishqsinghanands.live/)
+- 👨‍💻 All of my projects are available at [https://tanishqsinghanand.netlify.app/](https://tanishqsinghanand.netlify.app/)
 
 - 📝 I regularly write articles on [https://techny-teams.netlify.app/blogs](https://techny-teams.netlify.app/blogs)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anandtanishqs@gmail.com**
 
-- 📄 Know about my experiences [https://www.tanishqsinghanands.live/](https://www.tanishqsinghanands.live/)
+- 📄 Know about my experiences https://tanishqsinghanand.netlify.app/](https://tanishqsinghanand.netlify.app/)
 
 - ⚡ Fun fact **I love to play free fire 🔥**
 
