@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishqsinghanand&margin-w=15&column=7&row=8" alt="tanishqsinghanand" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tanishqsinghan2" target="blank"><img src="https://img.shields.io/twitter/follow/tanishqsinghan2?logo=twitter&style=for-the-badge" alt="tanishqsinghan2" /></a> </p>
-
 - 👯 I’m looking to collaborate on my Discord Bot [Techny Teams Discord Bot](mailto:anandtanishqs@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://tanishq.technyteams.co.in/](https://tanishq.technyteams.co.in/)
