@@ -1,4 +1,5 @@
-<div style={{width:"100vw",height:"100vh"}}<center><h1 align="center">Hi 👋, I'm Tanishq Singh Anand</h1>{
+<div style={{width:"100vw",height:"100vh",alignItems:"center",justifyContent:"center"}}>
+ <center><h1 align="center">Hi 👋, I'm Tanishq Singh Anand</h1>
 <h3 align="center">I'm an India based React Native developer. Night developer . Love Coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqsinghanand&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqsinghanand" /> </p>
