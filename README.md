@@ -1,4 +1,4 @@
-<center><h1 align="center">Hi 👋, I'm Tanishq Singh Anand</h1>
+<div style={{width:"100vw",height:"100vh"}}<center><h1 align="center">Hi 👋, I'm Tanishq Singh Anand</h1>{
 <h3 align="center">I'm an India based React Native developer. Night developer . Love Coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqsinghanand&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqsinghanand" /> </p>
@@ -14,8 +14,6 @@
 - 📫 How to reach me **anandtanishqs@gmail.com**
 
 - 📄 Know about my experiences [https://tanishq.technyteams.co.in/](https://tanishq.technyteams.co.in/)
-
-- ⚡ Fun fact **I love to play free fire 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,3 +40,4 @@
 <center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqsinghanand&show_icons=true&locale=en" alt="tanishqsinghanand" /></p></center>
 
 <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsinghanand&" alt="tanishqsinghanand" /></p></center>
+</div>
